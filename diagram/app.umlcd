@@ -37,6 +37,9 @@
         "name:java.lang.String"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 70,
           "transform": "translate(0,50)"
@@ -47,7 +50,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 71,
+          "ref-x": 73.046875,
           "text": "Texto\nTexto\n"
         },
         ".uml-class-methods-rect": {
@@ -155,8 +158,8 @@
       "role": "Auto",
       "runtimeClass": "cronos.widgets.joint.uml.Class",
       "size": {
-        "height": 107.86664581298828,
-        "width": 117
+        "height": 107.89323425292969,
+        "width": 117.34375
       },
       "tableName": "APPLICATION",
       "tableScheme": null,
@@ -171,6 +174,9 @@
         "user:User"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "fill": "#fffec0",
           "height": 90,
@@ -183,7 +189,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 88,
+          "ref-x": 86.59375,
           "text": "Texto\nApplication\nUser\n"
         },
         ".uml-class-methods-rect": {
@@ -316,7 +322,7 @@
       "name": "ApplicationUser",
       "position": {
         "x": 1020.25,
-        "y": 648.7530784606934
+        "y": 648.7530517578125
       },
       "queries": [],
       "realName": "",
@@ -324,8 +330,8 @@
       "role": "AssociationClass",
       "runtimeClass": "cronos.widgets.joint.uml.Class",
       "size": {
-        "height": 118.67057037353516,
-        "width": 161
+        "height": 118.69715118408203,
+        "width": 158.421875
       },
       "tableName": "APPLICATION_USER",
       "tableScheme": null,
@@ -350,6 +356,9 @@
         "error:java.lang.String"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 290,
           "transform": "translate(0,50)"
@@ -360,7 +369,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 106,
+          "ref-x": 103.796875,
           "text": "Inteiro\nTexto\nTexto\nData e Hora com Fuso\nTexto Longo\nTexto\nTexto\nTexto\nTexto\nTexto\nTexto\nTexto\nTexto\n"
         },
         ".uml-class-methods-rect": {
@@ -750,12 +759,12 @@
       "role": "Class",
       "runtimeClass": "cronos.widgets.joint.uml.Class",
       "size": {
-        "height": 227.87567138671875,
-        "width": 233
+        "height": 227.90223693847656,
+        "width": 232.453125
       },
       "tableName": "AUDIT_LOG",
       "type": "uml.Class",
-      "z": 14
+      "z": 28
     },
     {
       "angle": 0,
@@ -769,6 +778,9 @@
         "appVersion:java.lang.String"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 170,
           "transform": "translate(0,50)"
@@ -779,7 +791,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 113,
+          "ref-x": 111.4375,
           "text": "Texto\nTexto\nTexto\nTexto\nTexto\nTexto\nTexto\n"
         },
         ".uml-class-methods-rect": {
@@ -1008,8 +1020,8 @@
       "role": "Class",
       "runtimeClass": "cronos.widgets.joint.uml.Class",
       "size": {
-        "height": 162.20000457763672,
-        "width": 159
+        "height": 162.2265625,
+        "width": 155.734375
       },
       "tableName": "DEVICE",
       "tableScheme": null,
@@ -1025,6 +1037,9 @@
         "isbn:java.lang.String"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 110,
           "transform": "translate(0,50)"
@@ -1223,6 +1238,9 @@
         "user:User"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 130,
           "transform": "translate(0,50)"
@@ -1233,7 +1251,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 139,
+          "ref-x": 139.15625,
           "text": "Texto\nTexto\nTexto\nTexto\nUser\n"
         },
         ".uml-class-methods-rect": {
@@ -1444,7 +1462,7 @@
       ],
       "position": {
         "x": 1231.25,
-        "y": 637.893123626709
+        "y": 637.8931274414062
       },
       "primaryKeys": [
         "id"
@@ -1467,8 +1485,8 @@
         ""
       ],
       "size": {
-        "height": 140.3904800415039,
-        "width": 185
+        "height": 140.4170379638672,
+        "width": 183.453125
       },
       "tableName": "LOGIN",
       "type": "uml.Class",
@@ -1485,6 +1503,9 @@
         "dataEmprestimo:java.util.Date"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "fill": "#fffec0",
           "height": 130,
@@ -1719,6 +1740,9 @@
         "application:Application"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 150,
           "transform": "translate(0,50)"
@@ -1729,7 +1753,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 133,
+          "ref-x": 134.890625,
           "text": "Texto\nLógico\nLógico\nTexto\nTexto\nApplication\n"
         },
         ".uml-class-methods-rect": {
@@ -2001,7 +2025,7 @@
       ],
       "position": {
         "x": 137.75,
-        "y": 338.1099739074707
+        "y": 338.1099853515625
       },
       "primaryKeys": [
         "id"
@@ -2024,8 +2048,8 @@
         ""
       ],
       "size": {
-        "height": 151.28694915771484,
-        "width": 206
+        "height": 151.31351470947266,
+        "width": 206.71875
       },
       "tableName": "ROLE",
       "type": "uml.Class",
@@ -2040,6 +2064,9 @@
         "securable:Securable"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "fill": "#fffec0",
           "height": 90,
@@ -2052,7 +2079,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 85,
+          "ref-x": 81.703125,
           "text": "Texto\nRole\nSecurable\n"
         },
         ".uml-class-methods-rect": {
@@ -2204,7 +2231,7 @@
       ],
       "position": {
         "x": 215.5,
-        "y": 648.7530784606934
+        "y": 648.7530517578125
       },
       "primaryKeys": [
         "id"
@@ -2225,8 +2252,8 @@
         ""
       ],
       "size": {
-        "height": 118.67057037353516,
-        "width": 154
+        "height": 118.69715118408203,
+        "width": 149.25
       },
       "tableName": "ROLE_SECURABLE",
       "type": "uml.Class",
@@ -2241,6 +2268,9 @@
         "application:Application"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 90,
           "transform": "translate(0,50)"
@@ -2251,7 +2281,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 88,
+          "ref-x": 86.59375,
           "text": "Texto\nTexto\nApplication\n"
         },
         ".uml-class-methods-rect": {
@@ -2423,7 +2453,7 @@
       ],
       "position": {
         "x": 447.25,
-        "y": 354.418155670166
+        "y": 354.41815185546875
       },
       "primaryKeys": [
         "id"
@@ -2445,8 +2475,8 @@
         ""
       ],
       "size": {
-        "height": 118.67058563232422,
-        "width": 161
+        "height": 118.69715118408203,
+        "width": 158.421875
       },
       "tableName": "SECURABLE",
       "type": "uml.Class",
@@ -2475,6 +2505,9 @@
         "picture:Image Upload (to Database)"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 370,
           "transform": "translate(0,50)"
@@ -3216,6 +3249,9 @@
         "user:User"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "fill": "#fffec0",
           "height": 90,
@@ -3228,7 +3264,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 60,
+          "ref-x": 59.71875,
           "text": "Texto\nRole\nUser\n"
         },
         ".uml-class-methods-rect": {
@@ -3380,7 +3416,7 @@
       ],
       "position": {
         "x": 59.5,
-        "y": 648.7530784606934
+        "y": 648.7530517578125
       },
       "primaryKeys": [
         "id"
@@ -3401,8 +3437,8 @@
         ""
       ],
       "size": {
-        "height": 118.67057037353516,
-        "width": 106
+        "height": 118.69715118408203,
+        "width": 104.015625
       },
       "tableName": "USER_ROLE",
       "type": "uml.Class",
@@ -3417,6 +3453,9 @@
         "user:User"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "fill": "#fffec0",
           "height": 90,
@@ -3429,7 +3468,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 85,
+          "ref-x": 81.703125,
           "text": "Texto\nSecurable\nUser\n"
         },
         ".uml-class-methods-rect": {
@@ -3581,7 +3620,7 @@
       ],
       "position": {
         "x": 816.25,
-        "y": 648.7530784606934
+        "y": 648.7530517578125
       },
       "primaryKeys": [
         "id"
@@ -3602,8 +3641,8 @@
         ""
       ],
       "size": {
-        "height": 118.67057037353516,
-        "width": 154
+        "height": 118.69715118408203,
+        "width": 149.25
       },
       "tableName": "USER_SECURABLE",
       "type": "uml.Class",
@@ -3627,6 +3666,9 @@
         "application:Application"
       ],
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".uml-class-attrs-rect": {
           "height": 270,
           "transform": "translate(0,50)"
@@ -3637,7 +3679,7 @@
         },
         ".uml-class-attrs-value": {
           "font-size": 11,
-          "ref-x": 147,
+          "ref-x": 145.6875,
           "text": "Texto\nSecurable\nTexto\nLógico\nLógico\nLógico\nLógico\nLógico\nLógico\nLógico\nLógico\nApplication\n"
         },
         ".uml-class-methods-rect": {
@@ -4055,8 +4097,8 @@
       "role": "Class",
       "runtimeClass": "cronos.widgets.joint.uml.Class",
       "size": {
-        "height": 216.91427612304688,
-        "width": 220
+        "height": 216.94085693359375,
+        "width": 217.515625
       },
       "tableName": "VIEW",
       "tableScheme": null,
@@ -4066,6 +4108,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4110,6 +4155,9 @@
     },
     {
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4154,6 +4202,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4199,6 +4250,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4243,6 +4297,9 @@
     },
     {
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4287,6 +4344,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4341,6 +4401,9 @@
     },
     {
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4395,6 +4458,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4439,6 +4505,9 @@
     },
     {
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4483,6 +4552,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4527,6 +4599,9 @@
     },
     {
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4571,6 +4646,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4616,6 +4694,9 @@
     {
       "associationType": "Association",
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4660,6 +4741,9 @@
     },
     {
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
@@ -4703,6 +4787,9 @@
     },
     {
       "attrs": {
+        ".": {
+          "display": "normal"
+        },
         ".marker-source": {
           "d": "M 40 10 L 20 20 L 0 10 L 20 0 z",
           "fill": "#cecece"
